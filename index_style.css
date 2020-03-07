@@ -1,0 +1,141 @@
+body{
+	font-family: sans-serif;
+	margin: 0px;
+}
+
+/*-------------------------START OF NAVIGATION BAR-------------------------*/
+
+.upperpart{
+	overflow: auto;
+	position: sticky;
+	top: 0px;
+	background-color: #262626;
+}
+
+
+.navigation{
+	list-style-type: none;
+	margin: 0px;
+}
+
+ul.navigation a{
+	font-size: 1.2em;
+	padding: 30px;
+	float: right;
+	text-decoration: none;
+	color: white;
+}
+
+ul.navigation a:hover{
+	background-color: lightgrey;
+	color: red;
+	font-weight: bold;
+}
+
+/*---------------------------END OF NAVIGATION BAR---------------------------*/
+
+/*---------------------------START OF INTRODUCTION---------------------------*/
+
+div.lifi_image p{
+	margin-top: 0px;
+	background: url(images/lifi.jpg) no-repeat;
+	width: 100%;
+	height: 400px;
+	text-align: center;
+	padding-top: 270px;
+	font-size: 3em;
+	font-weight: bold;
+	color: white;
+	text-shadow: 4px 4px 7px black;
+}
+
+div.lifi_image span{
+	margin-top: 30px;
+	display: block;
+	font-size: 30px;
+}
+
+.introduction{
+	margin: auto;
+	width: 70%;
+	overflow: auto;
+}
+
+div.introduction img{
+	float: left;
+	width: 15%;
+	margin-right: 40px;
+}
+
+/*----------------------------END OF INTRODUCTION----------------------------*/
+
+/*--------------------------START OF LIFI BENEFITS---------------------------*/
+
+.heading{
+	color: black;
+	text-align: center;
+	padding: 30px;
+	font-size: 2.2em;
+	text-shadow: 2px 2px 2px black;
+}
+
+.subbenefits{
+	width: 90%;
+	margin: auto;
+	overflow: auto;
+}
+
+.benefits{
+	width: 25%;
+	height: 400px;
+	margin: 40px 45px;
+	float: left;
+	border-style: outset;
+	border-radius: 20px;
+	background-color: #f2f2f2;
+	text-align: center;
+	font-family: monospace;
+}
+
+.benefits h3{
+	color: blue;
+}
+
+/*---------------------------END OF LIFI BENEFITS----------------------------*/
+
+/*----------------------------START OF NEWSLETTER----------------------------*/
+
+.newsletter{
+	margin-top: 170px;
+	height: 250px;
+	background-color: darkblue;
+	color: white;
+}
+
+.newsletter p{
+	font-size: 2em;
+	padding: 30px;
+}
+
+
+.newsletter span{
+	font-size: 1.2em;
+	padding: 30px;
+}
+
+.newsletter input{
+	width: 350px;
+	height: 30px;
+	margin-right: 10px;
+	font-size: 1em;
+}
+
+.newsletter input.submit{
+	width: 100px;
+	height: 40px;
+	cursor: pointer;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+}
+
+/*-----------------------------END OF NEWSLETTER-----------------------------*/

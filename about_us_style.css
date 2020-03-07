@@ -1,0 +1,127 @@
+body{
+	font-family: sans-serif;
+	margin: 0px;
+}
+
+/*-------------------------START OF NAVIGATION BAR-------------------------*/
+
+.upperpart{
+	overflow: auto;
+	position: sticky;
+	top: 0px;
+	background-color: #262626;
+}
+
+
+.navigation{
+	list-style-type: none;
+	margin: 0px;
+}
+
+ul.navigation a{
+	font-size: 1.2em;
+	padding: 30px;
+	float: right;
+	text-decoration: none;
+	color: white;
+}
+
+ul.navigation a:hover{
+	background-color: lightgrey;
+	color: red;
+	font-weight: bold;
+}
+
+/*---------------------------END OF NAVIGATION BAR---------------------------*/
+
+/*-----------------------------START OF HISTORY------------------------------*/
+
+img.banner{
+	width: 100%;
+}
+
+
+.history{
+	width: 90%;
+	margin: auto;
+	margin-top: 200px;
+	overflow: auto;
+	/*background-color: yellow;*/
+}
+
+.history img{
+	float: left;
+	margin-right: 100px;
+}
+
+.historybody{
+	width: 60%;
+	float: left;
+	/*background-color: brown;*/
+}
+
+/*------------------------------END OF HISTORY-------------------------------*/
+
+/*---------------------------START OF PARTNERSHIP----------------------------*/
+
+.partnershipbody{
+	background-color: #f2f2f2;
+	text-align: center;
+	margin-top: 200px;
+}
+
+
+.partnership{
+	margin-top: 100px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.partnership ul{
+	list-style-type: none;
+}
+
+.partnership li{
+	padding: 10px;
+}
+
+/*----------------------------END OF PARTNERSHIP-----------------------------*/
+
+/*----------------------------START OF NEWSLETTER----------------------------*/
+
+.newsletter{
+	margin-top: 170px;
+	height: 250px;
+	background-color: darkblue;
+	color: white;
+}
+
+.newsletter p{
+	font-size: 2em;
+	padding: 30px;
+}
+
+
+.newsletter span{
+	font-size: 1.2em;
+	padding: 30px;
+}
+
+.newsletter input{
+	width: 350px;
+	height: 30px;
+	margin-right: 10px;
+	font-size: 1em;
+}
+
+.newsletter input.submit{
+	width: 100px;
+	height: 40px;
+	cursor: pointer;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+}
+
+/*-----------------------------END OF NEWSLETTER-----------------------------*/
+
+

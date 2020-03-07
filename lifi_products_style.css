@@ -1,0 +1,134 @@
+body{
+	font-family: sans-serif;
+	margin: 0px;
+}
+
+/*--------------------------START OF NAVIGATION BAR--------------------------*/
+
+.upperpart{
+	overflow: auto;
+	position: sticky;
+	top: 0px;
+	background-color: #262626;
+}
+
+.navigation{
+	list-style-type: none;
+	margin: 0px;
+}
+
+ul.navigation a{
+	font-size: 1.2em;
+	padding: 30px;
+	float: right;
+	text-decoration: none;
+	color: white;
+	transition: background-color 0.1s;
+}
+
+ul.navigation a:hover{
+	background-color: lightgrey;
+	color: red;
+	font-weight: bold;
+}
+
+/*---------------------------END OF NAVIGATION BAR---------------------------*/
+
+/*------------------------------START OF BANNER------------------------------*/
+
+.banner{
+	width: 100%;
+}
+
+/*-------------------------------END OF BANNER-------------------------------*/
+
+h2{
+	background-color: #f2f2f2;
+}
+
+.lifi_products{
+	margin-top: 150px;
+	text-align: center;
+}
+
+/*------------------------START OF PURELIFI PRODUCTS-------------------------*/
+
+.purelifi{
+	width: 100%;
+	margin: auto;
+	margin-top: 100px;
+}
+
+
+.lifi_ofe, .lifi_asic, .lifi_xc{
+	width: 25%;
+	margin-top: 70px;
+	display: inline-block;
+	margin-right: 100px;
+}
+
+.purelifi img{
+	height: 300px;
+}
+
+/*-------------------------END OF PURELIFI PRODUCTS--------------------------*/
+
+/*------------------------START OF OLEDCOMM PRODUCTS-------------------------*/
+
+.oledcomm{
+	width: 100%
+	margin: auto;
+	margin-top: 200px;
+}
+
+
+.lifi_max, .bidirectional_desk_lamp, .lamp_for_hospitals, .geo_lifi_led_tube, .ragni, .technilum{
+	width: 25%;
+	margin-top: 70px;
+	display: inline-block;
+	margin-right: 100px;
+}
+
+.oledcomm img{
+	height: 300px;
+}
+
+
+/*-------------------------END OF OLEDCOMM PRODUCTS--------------------------*/
+
+/*----------------------------START OF NEWSLETTER----------------------------*/
+
+.newsletter{
+	margin-top: 200px;
+	height: 250px;
+	background-color: darkblue;
+	color: white;
+}
+
+.newsletter p{
+	font-size: 2em;
+	padding: 30px;
+}
+
+
+.newsletter span{
+	font-size: 1.2em;
+	padding: 30px;
+}
+
+.newsletter input{
+	width: 350px;
+	height: 30px;
+	margin-right: 10px;
+	font-size: 1em;
+}
+
+.newsletter input.submit{
+	width: 100px;
+	height: 40px;
+	cursor: pointer;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+}
+
+/*-----------------------------END OF NEWSLETTER-----------------------------*/

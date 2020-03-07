@@ -1,0 +1,185 @@
+body{
+	font-family: sans-serif;
+	margin: 0em;
+}
+
+/*--------------------------START OF NAVIGATION BAR--------------------------*/
+
+.upperpart{
+	overflow: auto;
+	position: sticky;
+	top: 0px;
+	background-color: #262626;
+
+}
+
+.navigation{
+	list-style-type: none;
+	margin: 0px;
+}
+
+ul.navigation a{
+	font-size: 1.2em;
+	padding: 30px;
+	float: right;
+	text-decoration: none;
+	color: white;
+}
+
+ul.navigation a:hover{
+	background-color: lightgrey;
+	color: red;
+	font-weight: bold;
+}
+
+/*---------------------------END OF NAVIGATION BAR---------------------------*/
+
+/*---------------------------START OF WHAT IS LIFI---------------------------*/
+
+.whatislifi{
+	margin-top: 20px;
+	overflow: auto;
+	margin-bottom: 3em;
+	overflow: auto;
+	background-color: #f2f2f2;
+}
+
+div.whatislifi img {
+	float: left;
+	height: 400px;
+	width: 40%;
+	margin-right: 2%;
+}
+
+
+div.whatislifi p{
+	font-size: 0.9em;
+	margin-right: 2%;
+}
+
+div.whatislifi h3{
+	color: blue;
+}
+
+/*----------------------------END OF WHAT IS LIFI----------------------------*/
+
+/*--------------------------START OF HOW LIFI WORKS--------------------------*/
+.lifiworking{
+	font-size: 0.9em;
+	overflow: auto;
+	background-color: #f2f2f2;
+}
+
+div.lifiworking img{
+	float: right;
+	width: 50%;
+	height: 400px;
+	margin-left: 70px;
+}
+
+div.lifiworking p,h3{
+	margin-left: 2%;
+}
+
+div.lifiworking h3{
+	color: blue;
+}
+
+/*---------------------------END OF HOW LIFI WORKS---------------------------*/
+
+/*---------------------------START OF WIFI VS LIFI---------------------------*/
+
+.comparision{
+	margin-top: 170px;
+	text-align: center;
+	font-family: monospace;
+}
+
+div.comparision h1{
+	margin-bottom: 70px;
+}
+
+.feature{
+	color: purple;
+}
+
+table, th, td{
+	background-color: #f2f2f2;
+	border-style: outset;
+	text-align: center;
+	border-color: white;
+}
+
+th{
+	font-size: 1.5em;
+	padding: 15px;
+}
+
+td{
+	padding: 10px 20px;
+}
+
+/*----------------------------END OF WIFI VS LIFI----------------------------*/
+
+/*---------------------START OF PRODUCTS POWERED BY LIFI---------------------*/
+
+div.productsbody {
+	text-align: center;
+	overflow: auto;
+	margin-top: 150px;
+}
+
+div.productsbody h1{
+	margin-bottom: 70px;
+}
+
+div.productsbody img{
+	width: 95%;
+	
+	margin-right: 10px;
+}
+
+.integrated_luminare, .integrated_laptop, .mobile_phone_case, .pendant_light{
+	width: 20%;
+	margin-left: 40px;
+	float: left;
+}
+
+/*----------------------END OF PRODUCTS POWERED BY LIFI----------------------*/
+
+/*----------------------------START OF NEWSLETTER----------------------------*/
+
+.newsletter{
+	margin-top: 170px;
+	height: 250px;
+	background-color: darkblue;
+	color: white;
+}
+
+.newsletter p{
+	font-size: 2em;
+	padding: 30px;
+}
+
+
+.newsletter span{
+	font-size: 1.2em;
+	padding: 30px;
+}
+
+.newsletter input{
+	width: 350px;
+	height: 30px;
+	margin-right: 10px;
+	font-size: 1em;
+}
+
+.newsletter input.submit{
+	width: 100px;
+	height: 40px;
+	cursor: pointer;
+	background-color: rgb(240,240,240);
+	border-radius: 5px;
+}
+
+/*-----------------------------END OF NEWSLETTER-----------------------------*/

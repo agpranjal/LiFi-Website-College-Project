@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"img",
+				"background-image\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"lifi",
+				"lifiproducts"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"navigait",
+				"navigation_link"
+			],
+			[
+				"navi",
+				"navigation_link"
+			],
+			[
+				"list-",
+				"list-style-type\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"i",
+				"inside\tlist-style-position"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"inline\tlist-style"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"bk",
+				"background-color\tproperty"
+			],
+			[
+				"marign",
+				"margin-left\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"to",
+				"text-orientation\tproperty"
+			],
+			[
+				"b",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"fo",
+				"font-stretch\tproperty"
+			],
+			[
+				"fot",
+				"font-family\tproperty"
+			],
+			[
+				"s",
+				"size\tproperty"
+			],
+			[
+				"a",
+				"transparent\tborder"
+			],
+			[
+				"border",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"d",
+				"double\tborder-style"
+			],
+			[
+				"border-s",
+				"border-spacing\tproperty"
+			],
+			[
+				"mari",
+				"margin-left\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"colorpick",
+				"Color Picker"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"colorpicke",
+				"Color Picker: Insert Color"
+			],
+			[
+				"colorpicker",
+				"Color Picker: Insert Color"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ag_pranjal/lifi_website",
+		"/home/ag_pranjal/lifi_website/images"
+	],
+	"file_history":
+	[
+		"/home/ag_pranjal/lifi_website/lifi_technology_style.css",
+		"/home/ag_pranjal/lifi_website/index_style.css",
+		"/home/ag_pranjal/lifi_website/lifi_technology.html",
+		"/home/ag_pranjal/lifi_website/index.html",
+		"/home/ag_pranjal/lifi_website/stylesheet.css",
+		"/home/ag_pranjal/stylesheet.css",
+		"/home/ag_pranjal/test.html",
+		"/home/ag_pranjal/assignment/index.html",
+		"/home/ag_pranjal/myweb/aboutme/index.html",
+		"/home/ag_pranjal/myweb/style.css",
+		"/home/ag_pranjal/myweb/index.html",
+		"/home/ag_pranjal/myweb/sheet.css",
+		"/home/ag_pranjal/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/ag_pranjal/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/ag_pranjal/index.html",
+		"/media/ag_pranjal/0733D641257F96BD/lifi.html",
+		"/home/ag_pranjal/lifi.html",
+		"/home/ag_pranjal/code.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"completion",
+			"auto",
+			"enter",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lifi_technology.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
